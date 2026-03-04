@@ -1,12 +1,12 @@
-- Wady IT – Demo Website
+# Wady IT – Demo Website
 
 This repository contains the practical WordPress task (Week 4).
 
-- Included
+# Included
 * WordPress export file (.xml)
 * Screenshots of the website
 
-- Pages
+# Pages
 * Home
 * About Us
 * Services
